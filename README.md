@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![shemaabra's Github stats](https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&theme=tokyonight)
+
+<a href="https://github.com/shemaabra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&line_height=33&count_private=true&theme=tokyonight" alt="shemaabra's GitHub Stats" />
+</a>
 
 <a href="https://github.com/shemaabra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&&hide=cmake&langs_count=4&line_height=35&theme=tokyonight" />

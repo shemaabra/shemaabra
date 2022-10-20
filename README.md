@@ -23,6 +23,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&&hide=cmake&langs_count=4&line_height=35&theme=tokyonight" />
 </a>
 
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=shemaabra&column=9&theme=gruvbox&no-frame=true"/>
+
 **Languages and Tools:**  
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>

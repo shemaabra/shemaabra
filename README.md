@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/shemaabra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&theme=tokyonight" alt="shemaabra's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&theme=synthwave" alt="shemaabra's GitHub Stats" />
 </a>
 
 <a href="https://github.com/shemaabra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&layout=compact&hide=cmake&langs_count=4&line_height=35&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&layout=compact&hide=cmake&langs_count=4&line_height=35&theme=synthwave" />
 </a>
 
 <h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=shemaabra&column=9&theme=tokyonight&no-frame=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=shemaabra&column=9&theme=synthwave&no-frame=true"/>
 
 **Languages and Tools:**
 

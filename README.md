@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </a>
 
 <h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=shemaabra&column=9&theme=gruvbox&no-frame=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=shemaabra&column=9&theme=tokyonight&no-frame=true"/>
 
 <!-- [![Shemahonge's GitHub stats](https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&theme=transparent)](https://github.com/shemaabra) -->
 

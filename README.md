@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/shemaabra/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shemaabra&&show_icons=true&&theme=synthwave" alt="shemaabra's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shemaabra" alt="shemaabra's GitHub Stats" />
 </a>
 
 <a href="https://github.com/shemaabra/">

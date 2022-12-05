@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=shemaabra&column=9&theme=gruvbox&no-frame=true"/> -->
 
-<!-- [![shemaabra's GitHub stats](https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&theme=dark)](https://github.com/shemaabra/shemaabra) -->
+[![shemaabra's GitHub stats](https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&theme=dark)](https://github.com/shemaabra)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&show_icons=true&theme=dark)](https://github.com/shemaabra/github-readme-stats) -->
 

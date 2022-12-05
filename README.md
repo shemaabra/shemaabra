@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on T -->
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on https://github.com/shemaabra/
-- 🤔 I’m looking for help with ...
+<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Python, Django, Flutter
 - 📫 How to reach me: abrashema9@gmail.com
 <!-- - 😄 Pronouns: ... -->

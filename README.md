@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&theme=dark)](https://github.com/shemaabra)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&theme=dark)](https://github.com/shemaabra/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&show_icons=true&theme=dark)](https://github.com/shemaabra/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&layout=compact)](https://github.com/shemaabra/github-readme-stats)
 
 **Languages and Tools:**  
 

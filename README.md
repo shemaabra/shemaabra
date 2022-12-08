@@ -23,7 +23,7 @@
 
 
 <a href="https://github.com/shemaabra/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&layout=compact&hide=cmake&langs_count=4&line_height=35&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&layout=compact&hide=cmake&langs_count=4&line_height=35&theme=gruvbox&hide_border=true" />
 </a>
 
 <h2>🏆 Github Profile Trophy</h2>

@@ -15,9 +15,12 @@
 <!-- - ⚡ Fun fact: ... -->
 
 
-<a href="https://github.com/shemaabra/">
+<!-- <a href="https://github.com/shemaabra/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&theme=gruvbox" alt="shemaabra's GitHub Stats" />
-</a>
+</a> -->
+
+<a href="http://www.github.com/shemaabra"><img src="https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Shemaabra's GitHub stats" /></a>
+
 
 <a href="https://github.com/shemaabra/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&layout=compact&hide=cmake&langs_count=4&line_height=35&theme=gruvbox" />

@@ -48,4 +48,5 @@
 
 ![](https://komarev.com/ghpvc/?username=shemaabra)
 
+<a href="https://www.buymeacoffee.com/abrashema9O"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 

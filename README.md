@@ -1,10 +1,11 @@
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px> 
 ### Hi there 😄 👋 
 
 
 <!-- **shemaabra/shemaabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px> 
+
 <!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on T -->
@@ -39,5 +40,10 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shemaabra/shemaabra/master/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shemaabra/shemaabra/master/assets/javascript.png"></code>
+<p align="left">
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+</p>
+
 
 ![](https://komarev.com/ghpvc/?username=shemaabra)

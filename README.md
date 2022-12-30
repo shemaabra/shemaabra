@@ -42,7 +42,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/shemaabra/shemaabra/master/assets/javascript.png"></code>
 <p align="left">
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,photoshop,xd,vscode,django,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,photoshop,xd,vscode,django,html,css,javascript,typescript,git,github&theme=dark" />
   </a>
 
 

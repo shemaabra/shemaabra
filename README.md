@@ -15,7 +15,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 
-<a href="http://www.github.com/shemaabra"><img src="https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&hide=&count_private=true&theme=dark&hide_border=false&show_icons=true" alt="Shemaabra's GitHub stats" /></a>
+<a href="http://www.github.com/shemaabra"><img src="https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&hide=&count_private=true&theme=transparent&hide_border=false&show_icons=true" alt="Shemaabra's GitHub stats" /></a>
 
 
 <a href="https://github.com/shemaabra/">
@@ -23,12 +23,12 @@
 </a>
 
 <h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=shemaabra&column=9&theme=transparent&no-frame=false"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=shemaabra&column=9&theme=onedark&no-frame=false"/>
 
 🌋 **Languages and Tools:**
 
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,python,django,html,css,javascript,typescript,git,github,docker,linux,vscode,vim,photoshop,illustrator,xd,figma&theme=transparent" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,python,django,html,css,javascript,typescript,git,github,docker,linux,vscode,vim,photoshop,illustrator,xd,figma&theme=dark" />
   </a>
 <br />
 

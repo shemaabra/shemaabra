@@ -19,16 +19,16 @@
 
 
 <a href="https://github.com/shemaabra/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&layout=compact&hide=cmake&langs_count=4&line_height=35&theme=dark&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&layout=compact&hide=cmake&langs_count=4&line_height=35&theme=transparent&hide_border=false" />
 </a>
 
 <h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=shemaabra&column=9&theme=dark&no-frame=false"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=shemaabra&column=9&theme=transparent&no-frame=false"/>
 
 🌋 **Languages and Tools:**
 
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,python,django,html,css,javascript,typescript,git,github,docker,linux,vscode,vim,photoshop,illustrator,xd,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,python,django,html,css,javascript,typescript,git,github,docker,linux,vscode,vim,photoshop,illustrator,xd,figma&theme=transparent" />
   </a>
 <br />
 

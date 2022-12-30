@@ -12,16 +12,12 @@
 <!-- - 🔭 I’m currently working on T -->
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on https://github.com/shemaabra/
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Python, Django, Flutter
 - 📫 How to reach me: abrashema9@gmail.com
+<!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-
-<!-- <a href="https://github.com/shemaabra/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&theme=gruvbox" alt="shemaabra's GitHub Stats" />
-</a> -->
 
 <a href="http://www.github.com/shemaabra"><img src="https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&hide=&count_private=true&theme=gruvbox&hide_border=false&show_icons=true" alt="Shemaabra's GitHub stats" /></a>
 
@@ -38,7 +34,7 @@
 <a href="#">
     <img src="https://skillicons.dev/icons?i=dart,flutter,python,django,html,css,javascript,typescript,git,github,linux,vscode,vim,photoshop,illustrator,xd,figma&theme=dark" />
   </a>
-
+<br />
 
 ![](https://komarev.com/ghpvc/?username=shemaabra)
 

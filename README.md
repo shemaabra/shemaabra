@@ -36,7 +36,7 @@
 **Languages and Tools:**
 
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,python,django,html,css,javascript,typescript,git,github,photoshop,xd,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,python,django,html,css,php,javascript,typescript,git,github,photoshop,illustrator,xd,figma&theme=dark" />
   </a>
 
 

@@ -2,13 +2,9 @@
 ### Hi there 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-
 <!-- **shemaabra/shemaabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
-
 <!-- Here are some ideas to get you started: -->
-
 <!-- - 🔭 I’m currently working on T -->
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on https://github.com/shemaabra/
@@ -29,7 +25,7 @@
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=shemaabra&column=9&theme=gruvbox&no-frame=false"/>
 
-**Languages and Tools:**
+🌋 **Languages and Tools:**
 
 <a href="#">
     <img src="https://skillicons.dev/icons?i=dart,flutter,python,django,html,css,javascript,typescript,git,github,linux,vscode,vim,photoshop,illustrator,xd,figma&theme=dark" />

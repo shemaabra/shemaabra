@@ -6,9 +6,9 @@
 
 <!-- Here are some ideas to get you started: -->
 <!-- - 🔭 I’m currently working on T -->
-- 🌱 I’m currently learning Typescript
+<!-- - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on https://github.com/shemaabra/
-- 💬 Ask me about Python, Django, Flutter
+- 💬 Ask me about Python, Django, Flutter -->
 - 📫 How to reach me: abrashema9@gmail.com
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->

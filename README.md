@@ -22,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&layout=compact&hide=cmake&langs_count=4&line_height=35&theme=transparent&hide_border=false" />
 </a> 
 
-<h2>🏆 Github Profile Trophy</h2>
+<!-- <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=shemaabra&column=9&theme=onedark&no-frame=false"/>
 
 🌋 **Languages and Tools:**
@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=dart,flutter,python,django,html,css,javascript,typescript,java,spring,bootstrap,tailwind,nodejs,express,angular,git,github,docker,linux,vscode,vim,photoshop,illustrator,xd,figma&theme=dark" />
   </a>
 <br />
-
+ -->
 ![](https://komarev.com/ghpvc/?username=shemaabra)
 
 <a href="https://www.buymeacoffee.com/abrashema9O"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

@@ -18,9 +18,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shemaabra&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=shemaabra&column=9&theme=onedark&no-frame=false"/>
-
 🌋 **Languages and Tools:**
 
 <a href="#">

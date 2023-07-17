@@ -6,7 +6,7 @@
 
 <!-- Here are some ideas to get you started: -->
 <!-- - 🔭 I’m currently working on T -->
- 🌱 I’m currently learning Angular 
+ <!-- 🌱 I’m current -->
 - 👯 I’m looking to collaborate on https://github.com/shemaabra/
 💬 Ask me about Python, Django, Flutter, Angular 
 - 📫 How to reach me: abrashema9@gmail.com
@@ -14,6 +14,7 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shemaabra&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shemaabra&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)

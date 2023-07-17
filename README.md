@@ -1,26 +1,18 @@
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px> 
-<!-- ### Hi there 
+ ### Hi there 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> -->
 
 <!-- **shemaabra/shemaabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
 <!-- - 🔭 I’m currently working on T -->
-<!-- - 🌱 I’m currently learning Typescript
+ 🌱 I’m currently learning Angular 
 - 👯 I’m looking to collaborate on https://github.com/shemaabra/
-- 💬 Ask me about Python, Django, Flutter -->
+💬 Ask me about Python, Django, Flutter, Angular 
 - 📫 How to reach me: abrashema9@gmail.com
-<!-- - 🤔 I’m looking for help with ... -->
+- 🤔 I’m looking for help with angular
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-
-
- <!-- <a href="http://www.github.com/shemaabra"><img src="https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&hide=&count_private=true&theme=transparent&hide_border=false&show_icons=true" alt="Shemaabra's GitHub stats" /></a>
-
-
-<a href="https://github.com/shemaabra/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&layout=compact&hide=cmake&langs_count=4&line_height=35&theme=transparent&hide_border=false" />
-</a>  -->
 
 ![](https://github-readme-stats.vercel.app/api?username=shemaabra&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shemaabra&theme=dark&hide_border=false)<br/>

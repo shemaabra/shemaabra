@@ -6,9 +6,9 @@
 
 <!-- Here are some ideas to get you started: -->
 <!-- - 🔭 I’m currently working on T -->
-- 🌱 I’m currently learning Typescript
+<!-- - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on https://github.com/shemaabra/
-- 💬 Ask me about Python, Django, Flutter
+- 💬 Ask me about Python, Django, Flutter -->
 - 📫 How to reach me: abrashema9@gmail.com
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
@@ -35,7 +35,7 @@
     <img src="https://skillicons.dev/icons?i=dart,flutter,python,django,html,css,javascript,typescript,java,spring,bootstrap,tailwind,nodejs,express,angular,git,github,docker,linux,vscode,vim,photoshop,illustrator,xd,figma&theme=dark" />
   </a>
 <br />
-
+ 
 ![](https://komarev.com/ghpvc/?username=shemaabra)
 
 <a href="https://www.buymeacoffee.com/abrashema9O"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

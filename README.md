@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on https://github.com/shemaabra/
 💬 Ask me about Python, Django, Flutter, Angular 
 - 📫 How to reach me: abrashema9@gmail.com
-- 🤔 I’m looking for help with angular
+- 🤔 I’m looking for help with Angular
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 

@@ -15,12 +15,16 @@
 <!-- - ⚡ Fun fact: ... -->
 
 
- <a href="http://www.github.com/shemaabra"><img src="https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&hide=&count_private=true&theme=transparent&hide_border=false&show_icons=true" alt="Shemaabra's GitHub stats" /></a>
+ <!-- <a href="http://www.github.com/shemaabra"><img src="https://github-readme-stats.vercel.app/api?username=shemaabra&show_icons=true&hide=&count_private=true&theme=transparent&hide_border=false&show_icons=true" alt="Shemaabra's GitHub stats" /></a>
 
 
 <a href="https://github.com/shemaabra/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&layout=compact&hide=cmake&langs_count=4&line_height=35&theme=transparent&hide_border=false" />
-</a> 
+</a>  -->
+
+![](https://github-readme-stats.vercel.app/api?username=shemaabra&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shemaabra&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shemaabra&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=shemaabra&column=9&theme=onedark&no-frame=false"/>
